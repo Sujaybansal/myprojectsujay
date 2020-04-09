@@ -1,0 +1,27 @@
+.App{
+    background-color: bisque;
+    text-align: center;
+    
+}
+.Appe{
+    border-spacing: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    font-size: x-large;
+}
+
+
+.bu{
+    background-color: wheat;
+    background-clip: padding-box;
+    block-size: auto;
+    border-radius: 30px;
+    border-width: 5px;
+    border-spacing: 10px;
+    border-style: double;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+}
